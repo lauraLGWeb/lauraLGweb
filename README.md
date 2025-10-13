@@ -1,4 +1,6 @@
-<h1 align="center">Hello 👋, I'm Laura</h1>
+<img alt="hi" width="200px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnA3bmpwNzhlZzdxZmJsbWhsbTFhN2Iza3U1dXhxb2pzaGgyZHFvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dn2RNZ7MkD8xFqfTi1/giphy.gif">
+
+
 <h3 align="center">A web accessible for everyone, whatever the langage or ability. Because understanding and being understood should be universal.</h3>
 
 - 🔭 I’m currently working on [ToDoList](https://github.com/lauraLGWeb/ToDoList.git)
