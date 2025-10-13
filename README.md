@@ -14,12 +14,14 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enhkYndpMWRuN2xlanh5bTZoaT
 
 - ⚡ Fun fact **I talk to my code like it's my teammate, and sometimes it answers <br>(with errors)**
 
+<h3></h3>
+
 <br>
-<img src=""> <h2 align="left"> Connect with me:</h2>
+<h2 align="left"> Contact me with :</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/laura-le-gall-web-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lauralgweb" height="30" width="40" /></a>
-<a href="https://www.instagram.com/laura_l.g/"></i>" target="blank"><img align="center" src="<i class="fi fi-brands-instagram"></i>" alt="lauralgweb" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/laura-le-gall-web-dev/](https://www.facebook.com/laura.legall.543/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lauralgweb" height="30" width="40" /></a>
+<a href="https://www.instagram.com/laura_l.g/" target="blank"><img align="center" src="https://github.com/lauraLGWeb/lauraLGweb/blob/main/gef.png?raw=true" alt="lauralgweb" height="40" width="40"></a> 
+<a href="https://www.facebook.com/laura.legall.543/" target="blank"><img align="center" src="https://github.com/lauraLGWeb/lauraLGweb/blob/main/fb.png?raw=true" alt="lauralgweb"  height="40" width="40"></a>
+<a href="https://www.linkedin.com/in/laura-le-gall-web-dev/" target="blank"><img align="center" src="https://github.com/lauraLGWeb/lauraLGweb/blob/main/linkedin.png?raw=true" alt="lauralgweb" height="40" width="40"></a>
 </p>
 
 
