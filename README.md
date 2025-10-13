@@ -1,13 +1,19 @@
-<img alt="hi" width="200px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnA3bmpwNzhlZzdxZmJsbWhsbTFhN2Iza3U1dXhxb2pzaGgyZHFvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dn2RNZ7MkD8xFqfTi1/giphy.gif">
-
-
+<img alt="girlcoding" width="50px" align="left"
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNiemdxdDBvZzY0eml2c3JzaG12ZXp5OWNlMWJ0NjgzdW91dGw3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif">
 <h3 align="center">A web accessible for everyone, whatever the langage or ability. Because understanding and being understood should be universal.</h3>
 
+<br><br><br>
+
+<img alt="hi" width="300px" align="right" 
+src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enhkYndpMWRuN2xlanh5bTZoaTljZG84MjR6dDJ5NHJxYjBhd2NqZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif">
+
+
+<br><br>
 - 🔭 I’m currently working on [ToDoList](https://github.com/lauraLGWeb/ToDoList.git)
 
 - 👯 I’m also working on [GourmetTech Public](https://github.com/lauraLGWeb/GourmetTech.git)
 
-- ⚡ Fun fact **I talk to my code like it's my teammate, and sometimes it answers (with errors)**
+- ⚡ Fun fact **I talk to my code like it's my teammate, and sometimes it answers <br>(with errors)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
