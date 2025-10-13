@@ -1,11 +1,9 @@
 <h1 align="center">Hello 👋, I'm Laura</h1>
 <h3 align="center">A web accessible for everyone, whatever the langage or ability. Because understanding and being understood should be universal.</h3>
 
-- 🔭 I’m currently working on **todolist**
+- 🔭 I’m currently working on [ToDoList](https://github.com/lauraLGWeb/ToDoList.git)
 
-- 🌱 I’m currently learning **Local storage, Github use**
-
-- 📫 How to reach me **laura.maglegall@gmail.com**
+- 👯 I’m also working on [GourmetTech Public](https://github.com/lauraLGWeb/GourmetTech.git)
 
 - ⚡ Fun fact **I talk to my code like it's my teammate, and sometimes it answers (with errors)**
 
