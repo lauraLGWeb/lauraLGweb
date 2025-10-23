@@ -9,9 +9,7 @@
 <img alt="hi" width="200px" align="right" 
 src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enhkYndpMWRuN2xlanh5bTZoaTljZG84MjR6dDJ5NHJxYjBhd2NqZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif">
 
-- 🔭 I’m currently working on [ToDoList](https://github.com/lauraLGWeb/ToDoList.git)
-
-- 👯 I’m also working on [GourmetTech Public](https://github.com/lauraLGWeb/GourmetTech.git)
+- 🔭 I’m currently working on [GourmetTech Public](https://github.com/lauraLGWeb/GourmetTech.git) 
 
 - ⚡ Fun fact **I talk to my code like it's my teammate, and sometimes it answers <br>(with errors)**
 
