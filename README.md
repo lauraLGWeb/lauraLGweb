@@ -9,6 +9,17 @@
 <img alt="hi" width="200px" align="right" 
 src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enhkYndpMWRuN2xlanh5bTZoaTljZG84MjR6dDJ5NHJxYjBhd2NqZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif">
 
+<h2 align="left">🚀 Current Work</h2>
+
+- 🌱 Currently doing an internship at <b>VegVisit</b>  
+- 💻 Contributing to improvements on the existing website  
+- ⚛️ Working with modern front-end tools and learning every day on a real production project  
+
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+</p>
 
 - ⚡ Fun fact **I talk to my code like it's my teammate, and sometimes it answers <br>(with errors)**
 
