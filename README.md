@@ -9,11 +9,11 @@
 <img alt="hi" width="200px" align="right" 
 src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enhkYndpMWRuN2xlanh5bTZoaTljZG84MjR6dDJ5NHJxYjBhd2NqZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif">
 
-<h2 align="left">🚀 Current Work</h2>
+<h2 align="left">Current Work</h2>
 
-- 🌱 Currently doing an internship at <b>VegVisit</b>  
-- 💻 Contributing to improvements on the existing website  
-- ⚛️ Working with modern front-end tools and learning every day on a real production project  
+- Currently doing an internship at <b>VegVisit</b>  
+- Contributing to improvements on the existing website  
+- Working with modern front-end tools and learning every day on a real production project  
 
 <p align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
