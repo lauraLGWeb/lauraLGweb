@@ -23,6 +23,13 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enhkYndpMWRuN2xlanh5bTZoaT
 
 - ⚡ Fun fact **I talk to my code like it's my teammate, and sometimes it answers <br>(with errors)**
 
+<h2 align="left"> My GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lauraLGWeb&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraLGWeb&layout=compact&theme=tokyonight"/>
+</p>
+
 <h3></h3>
 
 <br>
